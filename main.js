@@ -54,3 +54,5 @@ if (auto) {
 }
 
 console.log("hello")
+console.log('world')
+console.log('o my gad')
